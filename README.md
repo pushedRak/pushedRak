@@ -1,12 +1,9 @@
 ## Algorithm
 ### BOJ for Java, C++
-
-<a href="https://solved.ac/profile/dungguk" target="_blank">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dungguk"/>
-</a>
+[![pushedrak's boj badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=dungguk)](https://solved.ac/profile/dungguk)
 
 ### BOJ for JavaScript
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pushedrak"/>
+[![pushedrak's boj badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=pushedrak)](https://solved.ac/profile/pushedrak)
 
 ## GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushedRak&show_icons=true&theme=dracula)
+![pushedRak's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushedRak&show_icons=true&theme=dracula)
