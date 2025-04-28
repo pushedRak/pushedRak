@@ -1,7 +1,9 @@
 ## Algorithm
 ### BOJ for Java, C++
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dungguk"/>
+<a href="https://solved.ac/profile/dungguk" target="_blank">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dungguk"/>
+</a>
 
 ### BOJ for JavaScript
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pushedrak"/>
